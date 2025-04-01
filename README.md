@@ -26,4 +26,4 @@ php artisan db:seed --class=SensorDataSeeder
 php artisan serve
 ```
 
-Accede a la aplicación en: http://localhost:8000/sensor-data
+Accede a la aplicación en: http://localhost:8000
